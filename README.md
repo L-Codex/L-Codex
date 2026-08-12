@@ -1,6 +1,10 @@
 <h1 align="center">Olá! Eu sou o Lucas </h1>
 
 <p align="center">
+  <img src="lucas.jpg" alt="Lucas" width="250" style="border-radius: 50%;"/>
+</p>
+
+<p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> · UNIP
 </p>
 
@@ -8,7 +12,7 @@
 
 ## 🛠️ Tecnologias
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
