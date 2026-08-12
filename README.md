@@ -33,6 +33,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=L-Codex&color=6f42c1&style=flat-square&label=Visitas+no+perfil" alt="profile views"/>
-</p>
