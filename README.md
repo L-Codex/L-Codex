@@ -1,8 +1,5 @@
 <h1 align="center">Olá! Eu sou o Lucas </h1>
 
-<p align="center">
-  <img src="lucas.jpg" alt="Lucas" width="250" style="border-radius: 50%;"/>
-</p>
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> · UNIP
