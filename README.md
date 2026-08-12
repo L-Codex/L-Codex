@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o L-Codex </h1>
+<h1 align="center">Olá! Eu sou o Lucas </h1>
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> · UNIP
