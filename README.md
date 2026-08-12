@@ -23,7 +23,7 @@
 ## 📬 Contato
 
 <p align="left">
-  <a href="mailto:sorteluc@gmail.com">
+  <a href="mailto:lucasmoreiralins@gmail.com">
     <img src="https://img.shields.io/badge/sorteluc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
