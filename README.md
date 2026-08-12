@@ -2,12 +2,14 @@
 
 
 <p align="center">
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> · UNIP
+   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> · UNIP
 </p>
+
+
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -21,7 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-## 📬 Contato
+##  Contato
 
 <p align="left">
   <a href="mailto:lucasmoreiralins@gmail.com">
