@@ -22,6 +22,10 @@
   <a href="#"><img title="C#" alt="C#" width="50" height="50" src="https://skillicons.dev/icons?i=cs"></a>
 </div>
 
+Projetos
+--------
+
+- [PIM03](https://github.com/L-Codex/pim03): Uma Plataforma de Agendamento De Barbearia e Painel Administrativo, fiquei responsável pelo Front-End.
 
 ##  Contato
 
