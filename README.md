@@ -24,8 +24,8 @@
 
 Projetos
 --------
-
-- [PIM03](https://github.com/L-Codex/pim03): Uma Plataforma de Agendamento De Barbearia e Painel Administrativo, fiquei responsável pelo Front-End.
+- [PIM02](https://github.com/bpleonardo/pim02):Um Sistema Acadêmico Cliente/Servidor, fiquei responsável pelo Cliente em Python.
+- [PIM03](https://github.com/L-Codex/pim03): Uma Plataforma de Agendamento De Barbearia e Painel Administrativo, fiquei responsável pelo Front-End. 
 
 ##  Contato
 
